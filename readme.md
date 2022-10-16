@@ -9,7 +9,9 @@
 * [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/IDEATION%20PHASE/Literature%20Survey.pdf)
 * [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/IDEATION%20PHASE/Empathy%20Map.pdf)
 * [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/IDEATION%20PHASE/Problem%20Statement.pdf)
-* [Brainstorm & idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/IDEATION%20PHASE/BrainStorming.pdf)
+* [Brainstorm & Idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/IDEATION%20PHASE/BrainStorming.pdf)
 
 ## PROJECT DESIGN & PLANNING
-* [Problem solution fit](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20DESIGN%20PHASE%201/Problem%20-%20Solution%20Fit.pdf)
+* [Problem Solution Fit Template](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20DESIGN%20PHASE%201/Problem%20-%20Solution%20Fit.pdf)
+* [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20DESIGN%20PHASE%201/Proposed%20Solution.pdf)
+* [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20DESIGN%20PHASE%201/Solution%20Architecture.pdf)
