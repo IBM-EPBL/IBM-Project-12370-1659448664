@@ -22,3 +22,7 @@
 * [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20DESIGN%20PHASE%202/Solution%20Requirements.pdf)
 * [Technology Stack](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20DESIGN%20PHASE%202/Technology%20Stack.pdf)
 
+## PROJECT PLANNING PHASE
+* [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20PLANNING%20PHASE/Milestone%20%26Activity%20List.pdf)
+* [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-12370-1659448664/blob/main/Project%20Design%20%26%20Planning/PROJECT%20PLANNING%20PHASE/Sprint%20Delivery%20Plan.pdf)
+
